@@ -6,7 +6,7 @@ Follow the steps below to install and run SentinelAI on Linux using a Python vir
 
 Clone the project from GitHub:
 
-git clone https://github.com/yourusername/sentinelai.git
+git clone https://github.com/Maquli234/SentielAI.git
 cd sentinelai
 2. Create a Virtual Environment
 
