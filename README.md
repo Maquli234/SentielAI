@@ -8,6 +8,7 @@ Clone the project from GitHub:
 
 git clone https://github.com/Maquli234/SentielAI.git
 cd sentinelai
+
 2. Create a Virtual Environment
 
 Create an isolated Python environment to avoid dependency conflicts:
