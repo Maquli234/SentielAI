@@ -1,0 +1,26 @@
+# Nmap 7.98 scan initiated Fri Mar  6 15:46:30 2026 as: /usr/lib/nmap/nmap --privileged -T4 -F -oX "/home/maquli/SentielAI/SentielAI v2/scans/192.168.1.120_quick_20260306_154630.xml" -oN "/home/maquli/SentielAI/SentielAI v2/scans/192.168.1.120_quick_20260306_154630.txt" 192.168.1.120
+Nmap scan report for 192.168.1.120
+Host is up (0.0034s latency).
+Not shown: 82 closed tcp ports (reset)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+513/tcp  open  login
+514/tcp  open  shell
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+8009/tcp open  ajp13
+MAC Address: 08:00:27:0B:7C:CA (Oracle VirtualBox virtual NIC)
+
+# Nmap done at Fri Mar  6 15:46:31 2026 -- 1 IP address (1 host up) scanned in 0.71 seconds
