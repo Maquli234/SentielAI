@@ -1,5 +1,0 @@
-rich>=13.7.0
-prompt_toolkit>=3.0.43
-# Optional — install for network graph visualisation
-# networkx>=3.2
-# graphviz>=0.20
