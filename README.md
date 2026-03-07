@@ -13,6 +13,7 @@ cd sentinelai
 Create an isolated Python environment to avoid dependency conflicts:
 
 python3 -m venv venv
+
 3. Activate the Virtual Environment
 
 Activate it before installing dependencies.
