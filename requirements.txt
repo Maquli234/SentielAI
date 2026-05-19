@@ -1,0 +1,16 @@
+# Core (required)
+rich>=13.7.0
+prompt_toolkit>=3.0.43
+
+# Dashboard (optional — needed for: dashboard command)
+# pip install flask
+# flask>=3.0.0
+
+# Multi-backend LLM (optional — needed for: --ai flag with non-Anthropic backends)
+# pip install openai
+# openai>=1.0.0
+
+# Graph visualisation (optional)
+# pip install networkx graphviz
+# networkx>=3.2
+# graphviz>=0.20

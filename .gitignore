@@ -1,0 +1,13 @@
+# Never push these
+config.yaml
+*.env
+.env
+api_keys.txt
+logs/
+scans/
+reports/
+__pycache__/
+*.pyc
+.claude/
+database/*.db
+*.log
